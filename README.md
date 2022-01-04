@@ -1,4 +1,4 @@
-# This is an burger builder app
+# This is a burger builder app
 
 In this app you can make your burger, add cheese, meat, salad and order that burger.
 
