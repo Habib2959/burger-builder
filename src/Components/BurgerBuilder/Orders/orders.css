@@ -1,0 +1,18 @@
+.order-summary{
+    width: 50% ;
+}
+.ordered-items{
+    border: 1px solid;
+    margin:1px;
+    width: 20%;
+}
+
+@media(max-width:600px){
+    .order-summary{
+        width: 100% ;
+    }
+    .ordered-items{
+        margin-bottom:5px;
+        width: 35%;
+    }
+}
