@@ -2,7 +2,7 @@
 
 In this app you can make your burger, add cheese, meat, salad and order that burger.
 
-You can see the live site by clicking [here](https://burger-builder-59.netlify.app/).
+You can visit the live site by clicking [here](https://burger-builder-59.netlify.app/).
 
 The project is built with:
     <ul>
